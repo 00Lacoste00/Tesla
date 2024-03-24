@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.section-1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+}
+.list {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.text-container {
+    padding-top: 200px;
+}
+
+.text-container h1 {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+}
+
+.h1 {
+    font-weight: 500;
+    size: 40px;
+    line-height: 48px;
+
+}
+
+.aftc {
+    font-weight: 500;
+    size: 12px;
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+.h2 {
+    font-weight: 500;
+    size: 20px;
+    line-height: 20px;
+}
+
+.button-container {
+    margin-top: 600px;
+
+}
+
+.button-container button {
+    width: 264px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 11px 40px 11px 40px;
+    border: none;
+
+}
+
+.right-button {
+    background-color: grey;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+.left-button {
+    font-weight: 500;
+    size: 12px;
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+.p-container {
+    margin: 25px
+}
+
+.section-2 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/xufyfcvqhmq36szytod7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+}
+
+.text-container2 {
+    padding-top: 200px;
+}
+
+ .text-container2 .h1{
+   
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+
+
+.button-container2 {
+    margin-top: 600px;
+}
+.button-container2 button {
+    width: 264px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 11px 40px 11px 40px;
+    border: none;
+}
+.right-button2 {
+    background-color: grey;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.left-button2 {
+    font-weight: 500;
+    size: 12px;
+    line-height: 20px;
+    margin-top: 5px;
+}
+.p-container2 {
+    font-weight: 500;
+    size: 12px;
+    line-height: 20px;
+    margin-top: 25px;
+}
+
+.section-3 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD);
+    background-size: cover;
+}
+
+
+
